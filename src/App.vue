@@ -1,7 +1,7 @@
 <template>
   <v-app>
 
-    <v-toolbar scroll-toolbar-off-screen app>
+    <v-toolbar scroll-off-screen app>
       <v-toolbar-title v-text="title"></v-toolbar-title>
     </v-toolbar>
 
