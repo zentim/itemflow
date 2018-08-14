@@ -13,7 +13,7 @@
       <v-layout row wrap align-center>
         <v-flex xs12>
           <div class="white--text ml-3">
-            &copy 2018
+            &copy; 2018
           </div>
         </v-flex>
       </v-layout>
