@@ -1,7 +1,7 @@
 <template>
   <v-app>
 
-    <v-toolbar app>
+    <v-toolbar scroll-toolbar-off-screen app>
       <v-toolbar-title v-text="title"></v-toolbar-title>
     </v-toolbar>
 
@@ -35,7 +35,7 @@ export default {
   },
   data () {
     return {
-      title: 'Vuetify.js'
+      title: 'Itemflow'
     }
   }
 }

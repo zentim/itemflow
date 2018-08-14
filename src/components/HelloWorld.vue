@@ -8,14 +8,12 @@
           justify-center
           class="white--text"
         >
-          <img src="https://vuetifyjs.com/themes/parallax-starter/assets/vuetify.png" alt="Vuetify.js" height="200">
-          <h1 class="white--text mb-2 display-1 text-xs-center">Parallax Template</h1>
-          <div class="subheading mb-3 text-xs-center">Powered by Vuetify</div>
+          <img src="https://lh3.googleusercontent.com/TUSdlxFgG74-xSX6z1nYyAeJVulFLNBDToTswCGH1CITLgUJeRryEXFQ8EblUJWsZhnf73zGuBXbApXtrFSS=w1600-h763-rw" height="450">
           <v-btn
             class="blue lighten-2 mt-5"
             dark
             large
-            href="/pre-made-themes"
+            href="https://itemflow-web.firebaseapp.com"
           >
             Get Started
           </v-btn>
