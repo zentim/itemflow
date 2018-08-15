@@ -1,34 +1,39 @@
 <template>
   <v-container fluid>
     <section>
+      <v-layout row wrap class="my-5">
+        <v-flex xs12 class="text-xs-center">
+          <div class="headline mb-2">Note-taking Application</div>
+          <div><em>Kick-start your note today</em></div>
+        </v-flex>
+      </v-layout>
 
-        <v-layout column align-center justify-center>
-          <div class="headline mb-3 text-xs-center">Note-taking Application</div>
-          <em>Kick-start your note today</em>
-          <v-layout>
-            <v-btn
-              class="my-5"
-              dark
-              large
-              color="blue darken-1"
-              href="https://itemflow-web.firebaseapp.com"
-            >
-              <v-icon left>web</v-icon>
-              Get Started
-            </v-btn>
-            <v-btn
-              class="my-5"
-              large
-              outline
-              color="blue darken-1"
-              href="https://github.com/zentim/itemflow-desktop/releases"
-            >
-              <v-icon left>computer</v-icon>
-              Download
-            </v-btn>
-          </v-layout>
-        </v-layout>
-
+      <v-layout row wrap class="my-5">
+        <v-flex xs12 sm6 class="text-xs-center text-sm-right">
+          <v-btn
+            xs12
+            dark
+            large
+            color="blue darken-1"
+            href="https://itemflow-web.firebaseapp.com"
+          >
+            <v-icon left>web</v-icon>
+            Get Started
+          </v-btn>
+        </v-flex>
+        <v-flex xs12 sm6 class="text-xs-center text-sm-left">
+          <v-btn
+            xs12
+            large
+            outline
+            color="blue darken-1"
+            href="https://github.com/zentim/itemflow-desktop/releases"
+          >
+            <v-icon left>computer</v-icon>
+            Download
+          </v-btn>
+        </v-flex>
+      </v-layout>
     </section>
 
     <section>
@@ -117,34 +122,39 @@
     </section>
 
     <section>
+      <v-layout row wrap class="my-5">
+        <v-flex xs12 class="text-xs-center">
+          <div class="headline mb-2">Note-taking Application</div>
+          <div><em>Kick-start your note today</em></div>
+        </v-flex>
+      </v-layout>
 
-        <v-layout column align-center justify-center>
-          <div class="headline mb-3 text-xs-center">Note-taking Application</div>
-          <em>Kick-start your note today</em>
-          <v-layout>
-            <v-btn
-              class="my-5"
-              dark
-              large
-              color="blue darken-1"
-              href="https://itemflow-web.firebaseapp.com"
-            >
-              <v-icon left>web</v-icon>
-              Get Started
-            </v-btn>
-            <v-btn
-              class="my-5"
-              large
-              outline
-              color="blue darken-1"
-              href="https://github.com/zentim/itemflow-desktop/releases"
-            >
-              <v-icon left>computer</v-icon>
-              Download
-            </v-btn>
-          </v-layout>
-        </v-layout>
-
+      <v-layout row wrap class="my-5">
+        <v-flex xs12 sm6 class="text-xs-center text-sm-right">
+          <v-btn
+            xs12
+            dark
+            large
+            color="blue darken-1"
+            href="https://itemflow-web.firebaseapp.com"
+          >
+            <v-icon left>web</v-icon>
+            Get Started
+          </v-btn>
+        </v-flex>
+        <v-flex xs12 sm6 class="text-xs-center text-sm-left">
+          <v-btn
+            xs12
+            large
+            outline
+            color="blue darken-1"
+            href="https://github.com/zentim/itemflow-desktop/releases"
+          >
+            <v-icon left>computer</v-icon>
+            Download
+          </v-btn>
+        </v-flex>
+      </v-layout>
     </section>
 
     <section>
