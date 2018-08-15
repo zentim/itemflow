@@ -5,14 +5,28 @@
         <v-layout column align-center justify-center>
           <div class="headline mb-3 text-xs-center">Note-taking Application</div>
           <em>Kick-start your note today</em>
-          <v-btn
-            class="blue lighten-2 my-5"
-            dark
-            large
-            href="https://itemflow-web.firebaseapp.com"
-          >
-            Get Started
-          </v-btn>
+          <v-layout>
+            <v-btn
+              class="my-5"
+              dark
+              large
+              color="blue darken-1"
+              href="https://itemflow-web.firebaseapp.com"
+            >
+              <v-icon left>web</v-icon>
+              Get Started
+            </v-btn>
+            <v-btn
+              class="my-5"
+              large
+              outline
+              color="blue darken-1"
+              href="https://github.com/zentim/itemflow-desktop/releases"
+            >
+              <v-icon left>computer</v-icon>
+              Download
+            </v-btn>
+          </v-layout>
         </v-layout>
 
     </section>
@@ -107,14 +121,28 @@
         <v-layout column align-center justify-center>
           <div class="headline mb-3 text-xs-center">Note-taking Application</div>
           <em>Kick-start your note today</em>
-          <v-btn
-            class="blue lighten-2 mt-5"
-            dark
-            large
-            href="/pre-made-themes"
-          >
-            Get Started
-          </v-btn>
+          <v-layout>
+            <v-btn
+              class="my-5"
+              dark
+              large
+              color="blue darken-1"
+              href="https://itemflow-web.firebaseapp.com"
+            >
+              <v-icon left>web</v-icon>
+              Get Started
+            </v-btn>
+            <v-btn
+              class="my-5"
+              large
+              outline
+              color="blue darken-1"
+              href="https://github.com/zentim/itemflow-desktop/releases"
+            >
+              <v-icon left>computer</v-icon>
+              Download
+            </v-btn>
+          </v-layout>
         </v-layout>
 
     </section>
