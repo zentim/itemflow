@@ -1,21 +1,3 @@
 # itemflow
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+A note-taking  web app by vue + vuetify + firebase.  
+See the introduction page: [https://zentim.github.io/itemflow/](https://zentim.github.io/itemflow/)
